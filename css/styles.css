@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 1rem;
+    box-sizing: border-box;
+}
+
+html {
+    height: 100%;
+}
+
+/* Body */
+body {
+    background-color: #aeed8f;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+    min-height: 100%;
+}
+
+/* BOOTSTRAP */
+
+.headercolor {
+    background-color: #136909;
+}
+
+nav {
+    background-color: #537d20;
+    font-family: 'Noto Serif Toto', serif;
+}
+
+.titulonav{
+    color: #dffd65;
+    font-family: 'Noto Serif Toto', serif;
+    font-size: 3rem;
+}
+#navbarNav ul li a {
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-size: 1.2rem;
+  }
+
+  a{
+    color: #dffd65;
+    font-size: 1.2rem;
+
+}
+
+h1{
+    color: rgb(110, 105, 9);
+    font-family: 'Noto Serif Toto', serif;
+    font-size: 2rem;
+}
+
+h2{
+    color: #094d0b;
+}
+
+.colortienda{
+    color: #dffd65;
+    font-family: 'Noto Serif Toto', serif;
+    font-size: 1rem;
+}
+
+.botoncalculo{
+    background-color: #dffd65;
+    color: #094d0b;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.botoncalculo:hover{
+    background-color: #094d0b;
+    color: #dffd65;
+}
+
+.botoncalculo:active{
+    background-color: #094d0b;
+    color: #dffd65;
+}
