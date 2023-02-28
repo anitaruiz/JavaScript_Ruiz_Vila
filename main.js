@@ -1,4 +1,4 @@
-// Ingresan su nombre y apellido, y lo guardo en la variable nombreIngreso
+/*// Ingresan su nombre y apellido, y lo guardo en la variable nombreIngreso
 let nombreIngreso = prompt("Ingrese su nombre y apellido para continuar");
 
 // Creo la variable pagoInicial, y le pongo valor 0
@@ -28,7 +28,7 @@ let tarjeta = "";
 // else {
 //   alert("Nombre invalido, recargue la pagina e intentalo nuevamente");
 // }
-
+*/
 function miBotonMultiplicacion() {
   //Creo la variable tabla vacia
   let tabla = "";
